@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnrepo/!svn/ver/2712/openmentoring/trunk/dbmanager/grails-app/views/databaseInfo
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnrepo/!svn/ver/2714/openmentoring/trunk/dbmanager/grails-app/views/databaseInfo/edit.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnrepo/!svn/ver/2714/openmentoring/trunk/dbmanager/grails-app/views/databaseInfo/create.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnrepo/!svn/ver/2712/openmentoring/trunk/dbmanager/grails-app/views/databaseInfo/list.gsp
+END
